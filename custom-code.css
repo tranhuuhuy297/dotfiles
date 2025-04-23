@@ -1,0 +1,46 @@
+.mac {
+  font-family: "Cascadia Code";
+  font-size: 13px;
+}
+
+/* Command Palette */
+.quick-input-widget {
+  margin: 0 !important;
+  animation: none !important;
+  position: fixed !important;
+  top: 50% !important;
+  left: 50% !important;
+  transform: translate(-50%, -50%) !important;
+  padding: 4px 4px 16px 4px !important;
+  background-color: #32302f !important;
+  backdrop-filter: blur(3px) !important;
+  width: 50vw !important;
+  border: 2px solid black !important;
+}
+
+/* Remove background for lists */
+.monaco-list-rows {
+  background: transparent !important;
+}
+
+/* List row hover effect */
+.monaco-list-row.focused,
+.monaco-list-row.selected {
+  border: 1px solid #d79921 !important;
+  box-sizing: border-box;
+}
+
+/* Command palette text input */
+.quick-input-filter .monaco-inputbox {
+  border-radius: 4px !important;
+  padding: 8px !important;
+  border: none !important;
+  font-family: "Cascadia Code" !important;
+  font-size: 15px !important;
+  margin-bottom: 4px !important;
+}
+
+/* Side bar */
+.part.sidebar {
+  box-shadow: 0px 0px 32px rgba(0, 0, 8, 0.25);
+}

@@ -1,0 +1,128 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "vsicons.dontShowNewVersionMessage": true,
+    "launch": {
+        "configurations": [],
+        "compounds": []
+    },
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "editor.largeFileOptimizations": false,
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter-notebook"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.formatOnSave": false
+    },
+    "liveServer.settings.donotShowInfoMsg": true,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.formatOnSave": false
+    },
+    "workbench.colorTheme": "Gruvbox Dark Medium",
+    "editor.fontLigatures": true,
+    "editor.fontWeight": "600",
+    "javascript.format.insertSpaceAfterConstructor": true,
+    "typescript.format.insertSpaceAfterConstructor": true,
+    "git.ignoreRebaseWarning": true,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "[scss]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "git.suggestSmartCommit": false,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.wordWrap": "wordWrapColumn",
+    "[jsonc]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "security.workspace.trust.untrustedFiles": "open",
+    "keyboard.dispatch": "keyCode",
+    "explorer.confirmDelete": false,
+    "git.autofetch": true,
+    "[python]": {
+        "editor.formatOnSave": true
+    },
+    "redhat.telemetry.enabled": true,
+    "java.completion.importOrder": [
+        "",
+        "javax",
+        "java",
+        "#"
+    ],
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": "explicit"
+    },
+    "files.autoSave": "afterDelay",
+    "[java]": {
+        "editor.defaultFormatter": "redhat.java"
+    },
+    "go.toolsManagement.autoUpdate": true,
+    "explorer.confirmDragAndDrop": false,
+    "debug.allowBreakpointsEverywhere": true,
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[proto3]": {
+        "editor.defaultFormatter": "zxh404.vscode-proto3"
+    },
+    "[go]": {
+        "editor.defaultFormatter": "golang.go",
+        "editor.formatOnSave": true
+    },
+    "editor.accessibilitySupport": "off",
+    "vetur.format.options.tabSize": 2,
+    "editor.wordWrapColumn": 160,
+    "vscodeGoogleTranslate.preferredLanguage": "Vietnamese",
+    "editor.formatOnSave": false,
+    "prettier.tabWidth": 2,
+    "prettier.printWidth": 160,
+    "gitlens.views.tags.branches.layout": "list",
+    "editor.formatOnSaveMode": "modifications",
+    "[php]": {
+        "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+    },
+    "python.createEnvironment.trigger": "off",
+    "editor.defaultFormatter": "mikoz.black-py",
+    "python.defaultInterpreterPath": "~/Projects/python3.9/bin/python",
+    "editor.fontFamily": "'Cascadia Code'",
+    "vs-kubernetes": {
+        "vscode-kubernetes.helm-path-mac": "/Users/huyth/.vs-kubernetes/tools/helm/darwin-arm64/helm",
+        "vscode-kubernetes.minikube-path-mac": "/Users/huyth/.vs-kubernetes/tools/minikube/darwin-arm64/minikube",
+        "vscode-kubernetes.kubectl-path-mac": "/Users/huyth/.vs-kubernetes/tools/kubectl/kubectl"
+    },
+    "editor.lineNumbers": "relative",
+    "git.openRepositoryInParentFolders": "always",
+    "cursor.cpp.disabledLanguages": [
+        "plaintext",
+        "markdown",
+        "scminput"
+    ],
+    "chat.editor.fontFamily": "'Cascadia Code'",
+    "chat.editor.fontWeight": "normal",
+    "markdown.preview.fontSize": 14,
+    "material-icon-theme.files.color": "#90a4ae",
+    "material-icon-theme.folders.color": "#d79921",
+    "material-icon-theme.opacity": 1,
+    "material-icon-theme.saturation": 1,
+    "material-icon-theme.hidesExplorerArrows": false,
+    "material-icon-theme.rootFolders.color": "#7cb342",
+    "material-icon-theme.folders.theme": "specific",
+    "workbench.statusBar.visible": false,
+    "workbench.activityBar.location": "top",
+    "workbench.sideBar.location": "right",
+    "vscode_custom_css.imports": [
+        "file:///Users/huyth/custom-code.css",
+    ],
+    "editor.fontSize": 13
+}
